@@ -1,0 +1,2 @@
+streamlit==1.29.0           # Web app framework
+cryptography==41.0.7        # Encryption (Fernet)
